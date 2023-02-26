@@ -11,11 +11,17 @@ Stay connected with me here on Github https://github.com/JoshuaMur and on Twitte
 
 # Table of Contents
 ● Introduction to Software Engineering Concepts for Data Scientists
+
 ● Data Structures and Algorithms for Data Science
+
 ● Design Patterns for Data Science
+
 ● Unit and Functional Testing for Data Science
+
 ● Event-Driven Architecture for Data Science
+
 ● Memory Optimization for Data Science
+
 ● System Design
 
 
